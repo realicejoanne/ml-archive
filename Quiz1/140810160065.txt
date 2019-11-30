@@ -1,0 +1,14 @@
+Nama	: Patricia Joanne
+NPM	: 140810160065
+
+Dataset	: tennis.csv dibantu dengan tennis.cfg
+
+1. Candidate Elimination
+Status	: Belum berhasil
+File	: ce.py
+Cara panggil: python ce.py
+
+2. Decision Tree
+Status	: Berhasil
+File	: id3.py
+Cara panggil: python id3.py tennis.cfg
